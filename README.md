@@ -1,9 +1,10 @@
 ## 👋 Hi there! Welcome to my Github profile.
 ### My name is Claudio Zimmermann Jr and my nickname in some games is "Sadlark"!
           
-- 🔭 I’m currently studying on Instituto Federal do Mato Grosso (IFMT) Computer Engineering;
-- 👯 I’m looking to collaborate on web front end development;
+- 🎓 I’m currently studying on Instituto Federal do Mato Grosso (IFMT) Computer Engineering;
+- 👯 I’m looking to collaborate on front end web development;
 - 💬 Ask me about new data structures and CSS frameworks;
+- 🔭Actually I'm focusing to improve my JavaScript skills
 - 📫 How to reach me: claudio.zi.junior@gmail.com;
 - 🏠 I'm actually living in Cuiabá Mato Grosso Brazil.
 
