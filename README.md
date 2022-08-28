@@ -1,5 +1,5 @@
 ## 👋 Hi there! Welcome to my Github profile.
-### My name is Claudio Zimmermann Jr and my nickname in some games is "Sadlark"!
+### My name is Claudio Zimmermann Jr and I'm a front end web developer!
           
 - 🎓 I’m currently studying on Instituto Federal do Mato Grosso (IFMT) Computer Engineering;
 - 👯 I’m looking to collaborate on front end web development;
