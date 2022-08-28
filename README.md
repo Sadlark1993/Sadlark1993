@@ -4,7 +4,7 @@
 - 🎓 I’m currently studying on Instituto Federal do Mato Grosso (IFMT) Computer Engineering;
 - 👯 I’m looking to collaborate on front end web development;
 - 💬 Ask me about new data structures and CSS frameworks;
-- 🔭Actually I'm focusing to improve my JavaScript skills
+- 🔭Actually I'm focusing to improve my JavaScript skills;
 - 📫 How to reach me: claudio.zi.junior@gmail.com;
 - 🏠 I'm actually living in Cuiabá Mato Grosso Brazil.
 
@@ -27,4 +27,3 @@
     <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sadlark1993&layout=compact&langs_count=7&theme=vue-dark"/> -->
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sadlark1993&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
 </div>
-<!-- test -->
