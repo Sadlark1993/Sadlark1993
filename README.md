@@ -6,7 +6,7 @@
 - 💬 Ask me about new data structures and CSS frameworks;
 - 🔭Actually I'm focusing to improve my JavaScript skills;
 - 📫 How to reach me: claudio.zi.junior@gmail.com;
-- 🏠 I'm actually living in Cuiabá Mato Grosso Brazil.
+- 🏠 I'm actually living in Cuiabá, Mato Grosso, Brazil.
 
 ##
 
