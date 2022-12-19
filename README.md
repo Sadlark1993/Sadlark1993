@@ -25,3 +25,6 @@
 ### What I'm currently learning:
 <img align="center" alt="React" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" />
 <img align="center" alt="TypeScript" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" />
+<img align="center" alt="Jest" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Jest.svg" />
+
+          
