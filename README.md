@@ -4,7 +4,7 @@
 
 - 🎓 I’m currently studying on Instituto Federal do Mato Grosso (IFMT) Computer Engineering;
 - 👯 I’m looking to collaborate on front end web development;
-- 🔭Actually I'm focusing to learn Spring-Boot framework;
+- 🔭Actually I'm focusing to improve my Spring-boot and React skills;
 - 📫 How to reach me: claudio.zi.junior@gmail.com;
 - 🏠 I'm actually living in Cuiabá, Mato Grosso, Brazil.
 
