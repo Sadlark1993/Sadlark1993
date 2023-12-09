@@ -31,4 +31,4 @@
 ### What I'm currently learning:
 
 <img align="center" alt="Next.js" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" />
-<img align="center" alt="php" height="30" width="40" src="./icons/php.svg" />
+<img align="center" alt="php" height="60" width="80" src="./icons/php.svg" />
