@@ -18,6 +18,7 @@
  <img align="center" alt="JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
  <img align="center" alt="TypeScript" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" /> 
  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+ <img align="center" alt="php" height="50" width="70" src="./icons/php.svg" />
  <img align="center" alt="React" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" />
  <img align="center" alt="Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/spring/spring-original.svg" />
  <img align="center" alt="Styled-Components" height="30" width="40" src="./icons/StyledComponents.svg" />
@@ -31,4 +32,4 @@
 ### What I'm currently learning:
 
 <img align="center" alt="Next.js" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" />
-<img align="center" alt="php" height="50" width="70" src="./icons/php.svg" />
+
